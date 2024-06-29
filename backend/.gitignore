@@ -38,3 +38,9 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+### Secrets ###
+secrets.properties
+
+### Random Stuff ###
+QuickStartDataClassExample.kt
